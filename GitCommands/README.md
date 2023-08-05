@@ -34,7 +34,7 @@ Solution ois below
 
 
 https://stackoverflow.com/questions/39399804/updates-were-rejected-because-the-tip-of-your-current-branch-is-behind-its-remot
------------------------------------------------------------
+---------------------------------
 1) is there a way i can find a commit in git is faked its date using  git commit --amend --date  command?
 
 ```If you suspect that a commit's date has been faked using the git commit --amend --date command, there are a few steps you can take to investigate and verify the authenticity of the commit's date:
