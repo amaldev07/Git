@@ -17,3 +17,6 @@ to fetch or get the latest from original repo to my forked repo
 git pull https://github.com/amaldev07/angular-lifecycle-hooks.git develop
 
 here "https://github.com/amaldev07/angular-lifecycle-hooks.git" is a sample repo
+-------------------
+Ref:-
+https://www.youtube.com/watch?v=nT8KGYVurIU&t=283s
